@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Mood Analyser problem\\MoodAnalyser\\MoodAnalyser\\MoodAnalyser.csproj",
-      "projectName": "MoodAnalyser",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Mood Analyser problem\\MoodAnalyser\\MoodAnalyser\\MoodAnalyser.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Mood Analyser problem\\MoodAnalyser\\MoodAnalyser\\MoodAnalyserProb.csproj",
+      "projectName": "MoodAnalyserProb",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Mood Analyser problem\\MoodAnalyser\\MoodAnalyser\\MoodAnalyserProb.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lenovo\\Desktop\\Mood Analyser problem\\MoodAnalyser\\MoodAnalyser\\obj\\",
       "projectStyle": "PackageReference",
