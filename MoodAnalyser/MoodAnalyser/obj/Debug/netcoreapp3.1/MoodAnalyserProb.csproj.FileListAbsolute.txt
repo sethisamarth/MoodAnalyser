@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyserProb.exe
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyserProb.deps.json
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyserProb.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyserProb.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyserProb.dll
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\bin\Debug\netcoreapp3.1\MoodAnalyserProb.pdb
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.dll
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.pdb
+C:\Users\Lenovo\Desktop\Mood Analyser problem\MoodAnalyser\MoodAnalyser\obj\Debug\netcoreapp3.1\MoodAnalyserProb.genruntimeconfig.cache
